@@ -1,4 +1,4 @@
-# NPC_generator
+# NPC_generator_excel
 Just another random NPC generator - This time in excel.
 
 This is just a simple excel file for generating random NPCs. It is not refined, beautiful or particularly well-coded. In fact it's the opposite. But it was done quickly and it works for my own personal usage with all the imperfections it has.
