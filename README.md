@@ -3,7 +3,7 @@ Just another random NPC generator - This time in excel.
 
 This is just a simple excel file for generating random NPCs. It is not refined, beautiful or particularly well-coded. In fact it's the opposite. But it was done quickly and it works for my own personal usage with all the imperfections it has.
 
-**Fair Warning: Do not think this will work for you** It might, but the intended audience is just me. So I'm only sharing it because I figured others might find it useful. It comes with zero guarantees of future updates, bug correction or any improvements.
+**Fair Warning: Do not think this will work for you.** It might, but the intended audience is just me. So I'm only sharing it because I figured others might find it useful. It comes with zero guarantees of future updates, bug correction or any improvements.
 
 The basic is a few sheets displaying a random NPC; both completely random and a few specific classes or races. I might add more if I find the need. I might not.
 
@@ -14,7 +14,11 @@ The basic is a few sheets displaying a random NPC; both completely random and a 
 **Content source:** The content of the tables have been pulled from various open sources around the internet. Here's a list of links to the ones I remember. Should you find your content here, and your credit not mentioned, DM me and I'll make sure to give you the right credit.
 
 **Content sources:**
+
 https://github.com/cellule/dndGenerator/
+
 https://www.reddit.com/user/OrkishBlade/
+
 https://github.com/Tetra-cube/Tetra-cube.github.io
+
 plus a few flavours of my own, probably brorrowed/inspired by soneone else I can't remember...
